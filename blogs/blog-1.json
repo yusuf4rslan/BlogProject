@@ -1,0 +1,7 @@
+{
+  "id": "1",
+  "title": "Modern JavaScript Harika! Async/Await Neden Önemli?",
+  "content": "Modern JavaScript (ES6 ve sonrası), `async/await` gibi özelliklerle asenkron programlamayı çok daha basit hale getirdi. Eskiden iç içe callback'ler (callback hell) ile yönetmesi zor olan kodlar, şimdi sanki düz çalışıyormuş gibi okunabilir ve yazılabilir hale geldi. `async` bir fonksiyon, her zaman bir 'söz' (Promise) döndürür ve `await` kelimesi, bu sözün yerine getirilmesini bekleyerek kodun akışını daha yönetilebilir kılar. Bu yapı, özellikle Node.js gibi asenkron doğası ağır basan platformlarda hayat kurtarıcıdır.",
+  "date": "2025-07-23",
+  "readCount": 0
+}

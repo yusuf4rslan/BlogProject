@@ -1,0 +1,7 @@
+{
+  "id": "3",
+  "title": "API Nedir? Basit Bir Açıklama",
+  "content": "API (Application Programming Interface - Uygulama Programlama Arayüzü), iki farklı yazılımın birbiriyle konuşmasını sağlayan bir aracıdır. Şu an yazdığımız bu Node.js projesi, aslında bir API'dir. Tarayıcıda çalışan `index.html` dosyamız (ön yüz), sunucuda çalışan `index.js` dosyamızdan (arka plan) veri istediğinde, bu isteği `/blogs` veya `/blog/:id` gibi önceden tanımlanmış 'kapılar' üzerinden yapar. Bu kapılar ve kurallar bütünü, API'nin kendisidir. API'ler sayesinde uygulamamızın veritabanı ve mantığı, kullanıcı arayüzünden tamamen ayrı tutulur, bu da projeyi daha güvenli ve yönetilebilir hale getirir.",
+  "date": "2025-07-25",
+  "readCount": 0
+}

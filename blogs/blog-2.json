@@ -1,0 +1,7 @@
+{
+  "id": "2",
+  "title": "Node.js: 'http' Modülü mü, Express.js mi?",
+  "content": "Node.js ile web sunucusu yazmaya başlarken herkesin karşılaştığı bir seçimdir: Temel `http` modülünü mü kullanmalı, yoksa Express.js gibi bir framework mü? Temel `http` modülü, Node.js'in en alt seviyede nasıl çalıştığını, istek (request) ve cevap (response) nesnelerinin doğasını anlamak için mükemmel bir okuldur. Express.js ise, rota yönetimi, middleware'ler ve JSON ayrıştırma gibi tekrar eden ve karmaşık işleri bizim için basitleştirerek çok daha hızlı ve temiz kod yazmamızı sağlar. Öğrenmek için `http` ile başlamak, profesyonel projeler için Express'e geçmek harika bir yoldur.",
+  "date": "2025-07-24",
+  "readCount": 0
+}
