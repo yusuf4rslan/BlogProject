@@ -1,4 +1,4 @@
-# Blog Projesi 2
+# Blog Projesi 
 
 Node.js ile geliştirilmiş basit bir blog yönetim sistemi. Bu proje, HTTP sunucusu kullanarak blog yazıları oluşturma, okuma ve listeleme işlemlerini gerçekleştirir.
 
