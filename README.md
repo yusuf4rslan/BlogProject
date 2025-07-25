@@ -1,4 +1,4 @@
-# Blog Projesi 2
+# Blog Projesi 
 
 Node.js ile geliştirilmiş basit bir blog yönetim sistemi. Bu proje, HTTP sunucusu kullanarak blog yazıları oluşturma, okuma ve listeleme işlemlerini gerçekleştirir.
 
@@ -22,7 +22,7 @@ blog-projesi-2/
 │   ├── blog-1.json
 │   ├── blog-2.json
 │   └── ...
-├── logs/              # Aktivite logları
+├── logs/              # Aktivite logları (otomatik oluşturulur)
 │   └── activity.log
 └── public/            # Statik dosyalar
     └── 404.html       # Hata sayfası
